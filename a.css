@@ -1,0 +1,13 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background:skyblue;
+    border-width: 20px;
+    border-color: aqua;
+    border-style:double;
+    border-radius: 100px 45 0 0;
+    box-sizing: border-box;
+    outline-width: 20px;
+outline-color: bisque;
+outline-style: dotted;
+}
